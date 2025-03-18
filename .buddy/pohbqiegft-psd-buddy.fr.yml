@@ -9,3 +9,8 @@ pohbqiegft-psd-buddy.fr:
       - lynx.qikdevns.net.
       - stork.qikdevns.net.
       - wolf.qikdevns.net.
+    vcivhtjkfm:
+    - type: TXT
+      values:
+      - txt value
+      ttl: 86400
